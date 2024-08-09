@@ -42,7 +42,7 @@ Simulation
 Clone the repository:
 
 
-git clone https://github.com/mukul12150/single_port_ram.git
+git clone https://github.com/mukul12150/singleportram.git
 cd single_port_ram
 Compile the Verilog source and testbench files:
 
